@@ -1,0 +1,2 @@
+
+Este es un archivo que no generará conflictos
