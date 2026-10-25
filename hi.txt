@@ -1,2 +1,4 @@
 
 Este es un archivo que no generará conflictos
+
+Este es un aporte para la rama principal desde la rama feature/pull_request
